@@ -6,7 +6,7 @@
       {
         "id": "9e8a942b5f61401e",
         "type": "tabs",
-        "dimension": 53.50157728706625,
+        "dimension": 52.87066246056782,
         "children": [
           {
             "id": "7e36b74125e624fe",
@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Зоны/Центр.md",
+                "file": "Зоны/Платиновая зона.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Центр"
+              "title": "Платиновая зона"
             }
           },
           {
@@ -43,7 +43,7 @@
       {
         "id": "9a78edf5f47fdd14",
         "type": "tabs",
-        "dimension": 46.49842271293375,
+        "dimension": 47.12933753943218,
         "children": [
           {
             "id": "34569eee44623bdd",
@@ -59,24 +59,8 @@
               "icon": "lucide-file",
               "title": "Без названия"
             }
-          },
-          {
-            "id": "34b4a15d27dcd749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Зоны/Платиновая зона.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Платиновая зона"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5
+    "width": 624.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,11 +212,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88c54cc788f928bb",
+  "active": "34569eee44623bdd",
   "lastOpenFiles": [
-    "DND",
     "Зоны/Платиновая зона.md",
+    "Зоны/Без названия.md",
     "Зоны/Центр.md",
+    "DND",
     "aboba",
     "Абоба/Абоба/ыва.txt",
     "Абоба/Абоба",
@@ -242,7 +227,6 @@
     "DND/Абоба",
     "DND/Новая папка",
     "dnd",
-    "Зоны/Без названия.md",
     "Зоны/Священная зона.md",
     "Сириус.md",
     "Зоны/Центр/Врата Великого Равенства.md",
