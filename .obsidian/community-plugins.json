@@ -8,5 +8,9 @@
   "obsidian-languagetool-plugin",
   "obsidian-pandoc",
   "obsidian-plugin-toc",
-  "obsidian-git"
+  "obsidian-git",
+  "highlightr-plugin",
+  "better-word-count",
+  "obsidian-smart-typography",
+  "colored-tags"
 ]

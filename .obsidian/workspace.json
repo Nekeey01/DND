@@ -6,7 +6,7 @@
       {
         "id": "9e8a942b5f61401e",
         "type": "tabs",
-        "dimension": 54.414414414414416,
+        "dimension": 54.090267983074746,
         "children": [
           {
             "id": "7e36b74125e624fe",
@@ -69,12 +69,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "c0be6dd4e3d1e243",
         "type": "tabs",
-        "dimension": 45.585585585585584,
+        "dimension": 45.90973201692525,
         "children": [
           {
             "id": "7fdacc25cf63969b",
@@ -121,8 +121,7 @@
               "title": "Дома"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,7 +260,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,21 +270,28 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "73e6f4db0491581c",
+  "active": "f335accfa3721153",
   "lastOpenFiles": [
-    "Зоны/Золотая зона.md",
-    "Зоны/Золотая зона/Дома.md",
-    "Зоны/Золотая зона/Облачная гавань.md",
     "Зоны/Без названия.md",
+    "Зоны/Золотая зона/Дома.md",
+    "Зоны/Золотая зона.md",
+    "Зоны/Золотая зона/Облачная гавань.md",
+    "Предметы/Зелья/Зелье абсолютной памяти.md",
+    "Запрещенное.md",
+    "Зоны/Платиновая зона.md",
+    "smart-chats/UNTITLED CHAT 2024-11-14 14 49 04.md",
+    "smart-chats",
     "Зоны/Священная зона.md",
     "Предметы/Зелья/зелье подавления магических способностей.md",
-    "Предметы/Зелья/Зелье абсолютной памяти.md",
     "Предметы/Зелья",
     "Предметы",
-    "Зоны/Платиновая зона.md",
     "Зоны/Центр.md",
     "Зоны/Краткое описание всех зон..md",
     "Зоны/Золотая зона",
@@ -295,7 +301,6 @@
     "Абоба/Абоба",
     "Абоба",
     "DND/Абоба/ыва.txt",
-    "DND/Абоба/Новый текстовый документ.txt",
     "Сириус.md",
     "Зоны/Центр/Врата Великого Равенства.md",
     "Зоны/Священная зона/Сады Сильвера.md",
