@@ -2,5 +2,10 @@
   "theme": "obsidian",
   "baseFontSizeAction": true,
   "cssTheme": "",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "nativeMenus": false,
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "custom-admonitions.663a39"
+  ]
 }

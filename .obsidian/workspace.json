@@ -6,7 +6,7 @@
       {
         "id": "9e8a942b5f61401e",
         "type": "tabs",
-        "dimension": 61.36363636363637,
+        "dimension": 54.414414414414416,
         "children": [
           {
             "id": "7e36b74125e624fe",
@@ -74,16 +74,21 @@
       {
         "id": "c0be6dd4e3d1e243",
         "type": "tabs",
-        "dimension": 38.63636363636363,
+        "dimension": 45.585585585585584,
         "children": [
           {
             "id": "e651499a0eec36bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Зоны/Золотая зона/Дома.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Дома"
             }
           }
         ]
@@ -238,12 +243,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2d09489a19327ea",
+  "active": "e651499a0eec36bb",
   "lastOpenFiles": [
     "Зоны/Золотая зона/Дома.md",
     "Зоны/Без названия.md",
     "Зоны/Золотая зона/Облачная гавань.md",
     "Зоны/Золотая зона.md",
+    "Зоны/Золотая зона/Дома.md",
     "Зоны/Священная зона.md",
     "Предметы/Зелья/зелье подавления магических способностей.md",
     "Предметы/Зелья/Зелье абсолютной памяти.md",
