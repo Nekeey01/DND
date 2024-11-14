@@ -260,7 +260,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,7 +277,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f335accfa3721153",
+  "active": "73e6f4db0491581c",
   "lastOpenFiles": [
     "Зоны/Без названия.md",
     "Зоны/Золотая зона/Дома.md",
