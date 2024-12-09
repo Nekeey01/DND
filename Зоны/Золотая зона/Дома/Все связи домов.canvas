@@ -1,0 +1,580 @@
+{
+  "nodes": [
+    {
+      "id": "a69a1e8aa885b45d",
+      "type": "group",
+      "x": -1020,
+      "y": 380,
+      "width": 680,
+      "height": 360,
+      "label": "Ларен"
+    },
+    {
+      "id": "1b93786a02f67cd5",
+      "type": "group",
+      "x": -240,
+      "y": 380,
+      "width": 680,
+      "height": 360,
+      "label": "Алдара"
+    },
+    {
+      "id": "b4b425816e5800f2",
+      "type": "group",
+      "x": -1020,
+      "y": -660,
+      "width": 680,
+      "height": 360,
+      "label": "Тарий"
+    },
+    {
+      "id": "c85214c84487e152",
+      "type": "group",
+      "x": -200,
+      "y": -660,
+      "width": 680,
+      "height": 360,
+      "label": "Вельвар"
+    },
+    {
+      "id": "23a39465046f2198",
+      "type": "text",
+      "text": "Дом Алдара",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -520,
+      "y": -510,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "59f49838c4887deb",
+      "type": "text",
+      "text": "Дом Вельвар",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1000,
+      "y": -510,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "73dbf9bab2163b35",
+      "type": "text",
+      "text": "Дом Тарий",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -760,
+      "y": -510,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "bbb5806eca422a73",
+      "type": "text",
+      "text": "Дом Ларен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -760,
+      "y": -380,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "afaa69f8fafc9f66",
+      "type": "text",
+      "text": "Дом Эйлен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -760,
+      "y": -640,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "9657fee1ece3e967",
+      "type": "text",
+      "text": "Дом Ларен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -180,
+      "y": -510,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "af5218d344a58ab7",
+      "type": "text",
+      "text": "Дом Эйлен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 60,
+      "y": -640,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "4e027d0eb7b3fb99",
+      "type": "text",
+      "text": "Дом Вельвар",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 60,
+      "y": -510,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "5eba6fc099f7ee4f",
+      "type": "text",
+      "text": "Дом Тарий",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 60,
+      "y": -380,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "8cdd367df7807a91",
+      "type": "text",
+      "text": "Дом Алдара",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 300,
+      "y": -510,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "5cf37308db035c79",
+      "type": "text",
+      "text": "Дом Вельвар",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -220,
+      "y": 530,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "793c6c07034feec4",
+      "type": "text",
+      "text": "Дом Эйлен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 20,
+      "y": 400,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "aa2ae1c91ea3d551",
+      "type": "text",
+      "text": "Дом Алдара",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 20,
+      "y": 530,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "79d1c3e64d351d84",
+      "type": "text",
+      "text": "Дом Ларен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 20,
+      "y": 660,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "5d933bdbe711d25d",
+      "type": "text",
+      "text": "Дом Тарий",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 260,
+      "y": 530,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "f1cfb0e00f54b410",
+      "type": "text",
+      "text": "Дом Вельвар",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1000,
+      "y": 530,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "7b60475ef3489f8f",
+      "type": "text",
+      "text": "Дом Эйлен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -760,
+      "y": 400,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "c68bd316a03c0237",
+      "type": "text",
+      "text": "Дом Ларен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -760,
+      "y": 530,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "41eee2e48e95c5cf",
+      "type": "text",
+      "text": "Дом Тарий",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -760,
+      "y": 660,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "8661e848b82ff6d0",
+      "type": "text",
+      "text": "Дом Алдара",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -520,
+      "y": 530,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "5c448dbd4ca84cbe",
+      "type": "text",
+      "text": "Дом Ларен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -340,
+      "y": 10,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "553f1c7521775a68",
+      "type": "text",
+      "text": "Дом Эйлен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -340,
+      "y": -220,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "9b0304d2cb6f78bd",
+      "type": "text",
+      "text": "Дом Вельвар",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -680,
+      "y": 10,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "6eb9d8f27221e793",
+      "type": "text",
+      "text": "Дом Алдара",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -20,
+      "y": 10,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "639a54a23460aec0",
+      "type": "text",
+      "text": "Дом Тарий",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -340,
+      "y": 240,
+      "width": 160,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "ef292b5848f9f65e",
+      "styleAttributes": {},
+      "fromNode": "aa2ae1c91ea3d551",
+      "fromSide": "bottom",
+      "toNode": "79d1c3e64d351d84",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "5578f3b6ccf04115",
+      "styleAttributes": {},
+      "fromNode": "aa2ae1c91ea3d551",
+      "fromSide": "right",
+      "toNode": "5d933bdbe711d25d",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "8fd46d515419c425",
+      "styleAttributes": {},
+      "fromNode": "aa2ae1c91ea3d551",
+      "fromSide": "left",
+      "toNode": "5cf37308db035c79",
+      "toSide": "right",
+      "color": "4"
+    },
+    {
+      "id": "6f4ba013c7cc2703",
+      "styleAttributes": {},
+      "fromNode": "aa2ae1c91ea3d551",
+      "fromSide": "top",
+      "toNode": "793c6c07034feec4",
+      "toSide": "bottom",
+      "color": "1"
+    },
+    {
+      "id": "690f3652d3ffb1ce",
+      "styleAttributes": {},
+      "fromNode": "4e027d0eb7b3fb99",
+      "fromSide": "top",
+      "toNode": "af5218d344a58ab7",
+      "toSide": "bottom",
+      "color": "3"
+    },
+    {
+      "id": "0545c2f0db2e52d5",
+      "styleAttributes": {},
+      "fromNode": "4e027d0eb7b3fb99",
+      "fromSide": "right",
+      "toNode": "8cdd367df7807a91",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "65e5cf71fd66b959",
+      "styleAttributes": {},
+      "fromNode": "4e027d0eb7b3fb99",
+      "fromSide": "bottom",
+      "toNode": "5eba6fc099f7ee4f",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "41163e422af712ed",
+      "styleAttributes": {},
+      "fromNode": "4e027d0eb7b3fb99",
+      "fromSide": "left",
+      "toNode": "9657fee1ece3e967",
+      "toSide": "right",
+      "color": "3"
+    },
+    {
+      "id": "0cadf26040bad67c",
+      "styleAttributes": {},
+      "fromNode": "c68bd316a03c0237",
+      "fromSide": "left",
+      "toNode": "f1cfb0e00f54b410",
+      "toSide": "right",
+      "color": "5"
+    },
+    {
+      "id": "8c01e41adbe5a23d",
+      "styleAttributes": {},
+      "fromNode": "c68bd316a03c0237",
+      "fromSide": "top",
+      "toNode": "7b60475ef3489f8f",
+      "toSide": "bottom",
+      "color": "4"
+    },
+    {
+      "id": "2f14c29ed8499ff9",
+      "styleAttributes": {},
+      "fromNode": "c68bd316a03c0237",
+      "fromSide": "right",
+      "toNode": "8661e848b82ff6d0",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "3f6c2000b194b5fa",
+      "styleAttributes": {},
+      "fromNode": "c68bd316a03c0237",
+      "fromSide": "bottom",
+      "toNode": "41eee2e48e95c5cf",
+      "toSide": "top",
+      "color": "2"
+    },
+    {
+      "id": "5594a8ebc28b6fa6",
+      "styleAttributes": {},
+      "fromNode": "73dbf9bab2163b35",
+      "fromSide": "bottom",
+      "toNode": "bbb5806eca422a73",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "edad54e4a90975dd",
+      "styleAttributes": {},
+      "fromNode": "73dbf9bab2163b35",
+      "fromSide": "left",
+      "toNode": "59f49838c4887deb",
+      "toSide": "right",
+      "color": "5"
+    },
+    {
+      "id": "37545698b552777c",
+      "styleAttributes": {},
+      "fromNode": "73dbf9bab2163b35",
+      "fromSide": "top",
+      "toNode": "afaa69f8fafc9f66",
+      "toSide": "bottom",
+      "color": "3"
+    },
+    {
+      "id": "ddcddebd46b0a17f",
+      "styleAttributes": {},
+      "fromNode": "73dbf9bab2163b35",
+      "fromSide": "right",
+      "toNode": "23a39465046f2198",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "7499762a9e41d4ff",
+      "styleAttributes": {},
+      "fromNode": "5c448dbd4ca84cbe",
+      "fromSide": "left",
+      "toNode": "9b0304d2cb6f78bd",
+      "toSide": "right",
+      "color": "5"
+    },
+    {
+      "id": "e07e8edc098aeb0a",
+      "styleAttributes": {},
+      "fromNode": "5c448dbd4ca84cbe",
+      "fromSide": "top",
+      "toNode": "553f1c7521775a68",
+      "toSide": "bottom",
+      "color": "4"
+    },
+    {
+      "id": "d00051fe260bbddd",
+      "styleAttributes": {},
+      "fromNode": "5c448dbd4ca84cbe",
+      "fromSide": "right",
+      "toNode": "6eb9d8f27221e793",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "72567ec1ec909de9",
+      "styleAttributes": {},
+      "fromNode": "5c448dbd4ca84cbe",
+      "fromSide": "bottom",
+      "toNode": "639a54a23460aec0",
+      "toSide": "top",
+      "color": "2"
+    },
+    {
+      "id": "d943f97a5abe63a1",
+      "styleAttributes": {},
+      "fromNode": "639a54a23460aec0",
+      "fromSide": "left",
+      "toNode": "9b0304d2cb6f78bd",
+      "toSide": "bottom",
+      "color": "5"
+    },
+    {
+      "id": "dee3dcac6b8671f1",
+      "styleAttributes": {},
+      "fromNode": "9b0304d2cb6f78bd",
+      "fromSide": "top",
+      "toNode": "553f1c7521775a68",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "63032d8a501e5baa",
+      "styleAttributes": {},
+      "fromNode": "553f1c7521775a68",
+      "fromSide": "right",
+      "toNode": "6eb9d8f27221e793",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "b360b05c91979c96",
+      "styleAttributes": {},
+      "fromNode": "6eb9d8f27221e793",
+      "fromSide": "bottom",
+      "toNode": "639a54a23460aec0",
+      "toSide": "right",
+      "color": "4"
+    },
+    {
+      "id": "43639e6b0bddc91f",
+      "styleAttributes": {
+        "path": "short-dashed",
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "639a54a23460aec0",
+      "fromSide": "top",
+      "toNode": "5c448dbd4ca84cbe",
+      "toSide": "bottom",
+      "color": "1"
+    },
+    {
+      "id": "9ca75edde17b3536",
+      "styleAttributes": {},
+      "fromNode": "639a54a23460aec0",
+      "fromSide": "right",
+      "toNode": "6eb9d8f27221e793",
+      "toSide": "bottom",
+      "color": "4"
+    }
+  ],
+  "metadata": {}
+}
