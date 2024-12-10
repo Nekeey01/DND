@@ -1,5 +1,103 @@
 {
-  "nodes": [],
-  "edges": [],
+  "nodes": [
+    {
+      "id": "4a53473f702a9e9a",
+      "type": "text",
+      "text": "Дом Вельвар",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -320,
+      "y": -30,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "2dfa8b7279216587",
+      "type": "text",
+      "text": "Дом Алдара",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 160,
+      "y": -30,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "72ecd733c07eec49",
+      "type": "text",
+      "text": "Дом Тарий",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -80,
+      "y": 100,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "310615e9008786a6",
+      "type": "text",
+      "text": "Дом Ларен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -80,
+      "y": -160,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "f49d9ad0bfd40aed",
+      "type": "text",
+      "text": "Дом Эйлен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -80,
+      "y": -30,
+      "width": 160,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "d2b928286c87aba7",
+      "styleAttributes": {},
+      "fromNode": "f49d9ad0bfd40aed",
+      "fromSide": "top",
+      "toNode": "310615e9008786a6",
+      "toSide": "bottom",
+      "color": "4"
+    },
+    {
+      "id": "e6ee9806831036bf",
+      "styleAttributes": {},
+      "fromNode": "f49d9ad0bfd40aed",
+      "fromSide": "right",
+      "toNode": "2dfa8b7279216587",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "330cfebc32e7b502",
+      "styleAttributes": {},
+      "fromNode": "f49d9ad0bfd40aed",
+      "fromSide": "bottom",
+      "toNode": "72ecd733c07eec49",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "fb5cf4172005714a",
+      "styleAttributes": {},
+      "fromNode": "f49d9ad0bfd40aed",
+      "fromSide": "left",
+      "toNode": "4a53473f702a9e9a",
+      "toSide": "right",
+      "color": "3"
+    }
+  ],
   "metadata": {}
 }
