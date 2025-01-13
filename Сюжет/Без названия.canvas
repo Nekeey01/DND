@@ -1,0 +1,142 @@
+{
+  "nodes": [
+    {
+      "id": "092428913211c144",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 20,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "20a86f6521adc289",
+      "type": "text",
+      "text": "Убийство Алхимика",
+      "styleAttributes": {},
+      "x": -900,
+      "y": -180,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ab86a3abf4ffbcfd",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 200,
+      "y": -120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "36ba4635b031b38c",
+      "type": "text",
+      "text": "Подозрения на культистов",
+      "styleAttributes": {},
+      "x": -460,
+      "y": 280,
+      "width": 280,
+      "height": 60
+    },
+    {
+      "id": "a007df090aae33b2",
+      "type": "text",
+      "text": "Подозрения на Эйлен",
+      "styleAttributes": {},
+      "x": -440,
+      "y": -760,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "21dbc5471cdca73a",
+      "type": "text",
+      "text": "Подозрения на Эйлен",
+      "styleAttributes": {},
+      "x": -100,
+      "y": -980,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ed42f904eb34bc45",
+      "type": "text",
+      "text": "Священная зона",
+      "styleAttributes": {},
+      "x": -100,
+      "y": -580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b2f2a5ea5e8884da",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 260,
+      "y": -700,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "bd99cd2d8c950d7c",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 260,
+      "y": -460,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "8c2cfbdda2eb179c",
+      "styleAttributes": {
+        "pathfindingMethod": "square",
+        "path": null
+      },
+      "fromNode": "20a86f6521adc289",
+      "fromSide": "right",
+      "toNode": "a007df090aae33b2",
+      "toSide": "left",
+      "label": "Разговор с Алдарами"
+    },
+    {
+      "id": "fde1ae02858f4ce8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "20a86f6521adc289",
+      "fromSide": "right",
+      "toNode": "36ba4635b031b38c",
+      "toSide": "left",
+      "label": "Разговор с Алдарами"
+    },
+    {
+      "id": "5d1cef270f2449d8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "a007df090aae33b2",
+      "fromSide": "right",
+      "toNode": "21dbc5471cdca73a",
+      "toSide": "left",
+      "label": "Разговор с человеком из Эйлен"
+    },
+    {
+      "id": "4ca11a9ecbe99c27",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "a007df090aae33b2",
+      "fromSide": "right",
+      "toNode": "ed42f904eb34bc45",
+      "toSide": "left",
+      "label": "Разговор с человеком из Эйлен"
+    }
+  ],
+  "metadata": {}
+}

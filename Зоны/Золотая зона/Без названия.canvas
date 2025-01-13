@@ -1,151 +1,188 @@
 {
-	"nodes":[
-		{
-			"id":"81e5e0565bcdd4eb",
-			"type":"text",
-			"text":"[[Описание дома Тарий]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"border":null
-			},
-			"x":-220,
-			"y":540,
-			"width":180,
-			"height":60
-		},
-		{
-			"id":"2ac741a2f53dcd61",
-			"type":"text",
-			"text":"[[Описание дома Алдара]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-400,
-			"y":410,
-			"width":180,
-			"height":60
-		},
-		{
-			"id":"39934410dd167ee7",
-			"type":"text",
-			"text":"[[Описание дома Ларен]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-40,
-			"y":410,
-			"width":180,
-			"height":60
-		},
-		{
-			"id":"1cd9cc6a5ca4a8fd",
-			"type":"text",
-			"text":"[[Описание дома Эйлен]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-220,
-			"y":120,
-			"width":180,
-			"height":60
-		},
-		{
-			"id":"2e08256e0da70cd0",
-			"type":"text",
-			"text":"[[Описание дома Вельвар]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-220,
-			"y":280,
-			"width":180,
-			"height":60
-		},
-		{
-			"id":"5755866f441e980a",
-			"type":"text",
-			"text":"считают союзниками",
-			"styleAttributes":{},
-			"x":-500,
-			"y":-60,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"3cd3cc3b05341029",
-			"type":"text",
-			"text":"считают противниками",
-			"styleAttributes":{},
-			"x":-500,
-			"y":20,
-			"width":260,
-			"height":60,
-			"color":"1"
-		}
-	],
-	"edges":[
-		{"id":"aa31972e4dc49e6c","fromNode":"2ac741a2f53dcd61","fromSide":"right","toNode":"39934410dd167ee7","toSide":"left","color":"4"},
-		{
-			"id":"4a521f3a55b8e693",
-			"styleAttributes":{
-				"pathfindingMethod":null,
-				"path":null
-			},
-			"fromNode":"2ac741a2f53dcd61",
-			"fromSide":"left",
-			"toNode":"1cd9cc6a5ca4a8fd",
-			"toSide":"left",
-			"color":"1"
-		},
-		{"id":"39617279aff27f50","fromNode":"2e08256e0da70cd0","fromSide":"bottom","toNode":"81e5e0565bcdd4eb","toSide":"top","color":"4"},
-		{
-			"id":"cb2308654d2b1c92",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"fromNode":"2e08256e0da70cd0",
-			"fromSide":"left",
-			"toNode":"2ac741a2f53dcd61",
-			"toSide":"top",
-			"color":"1"
-		},
-		{"id":"2544a0f8cb534baa","fromNode":"39934410dd167ee7","fromSide":"left","toNode":"2ac741a2f53dcd61","toSide":"right","color":"4"},
-		{
-			"id":"43436e89d02905db",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"fromNode":"39934410dd167ee7",
-			"fromSide":"bottom",
-			"toNode":"81e5e0565bcdd4eb",
-			"toSide":"right",
-			"color":"1"
-		},
-		{
-			"id":"d5ba0e1f886ccd98",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"fromNode":"81e5e0565bcdd4eb",
-			"fromSide":"right",
-			"toNode":"39934410dd167ee7",
-			"toSide":"bottom",
-			"color":"1"
-		},
-		{
-			"id":"b51fb47715697f86",
-			"styleAttributes":{},
-			"fromNode":"1cd9cc6a5ca4a8fd",
-			"fromSide":"bottom",
-			"toNode":"2e08256e0da70cd0",
-			"toSide":"top",
-			"color":"1"
-		},
-		{
-			"id":"e6c594ba8bbf0ced",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"fromNode":"1cd9cc6a5ca4a8fd",
-			"fromSide":"right",
-			"toNode":"39934410dd167ee7",
-			"toSide":"top",
-			"color":"4"
-		},
-		{
-			"id":"3429b935d9244179",
-			"styleAttributes":{},
-			"fromNode":"81e5e0565bcdd4eb",
-			"fromSide":"top",
-			"toNode":"2e08256e0da70cd0",
-			"toSide":"bottom",
-			"color":"4"
-		}
-	],
-	"metadata":{}
+  "nodes": [
+    {
+      "id": "81e5e0565bcdd4eb",
+      "type": "text",
+      "text": "[[Описание дома Тарий]]",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": null
+      },
+      "x": -220,
+      "y": 540,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "2ac741a2f53dcd61",
+      "type": "text",
+      "text": "[[Описание дома Алдара]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -400,
+      "y": 410,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "39934410dd167ee7",
+      "type": "text",
+      "text": "[[Описание дома Ларен]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -40,
+      "y": 410,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "1cd9cc6a5ca4a8fd",
+      "type": "text",
+      "text": "[[Описание дома Эйлен]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -220,
+      "y": 120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "2e08256e0da70cd0",
+      "type": "text",
+      "text": "[[Описание дома Вельвар]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -220,
+      "y": 280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "5755866f441e980a",
+      "type": "text",
+      "text": "считают союзниками",
+      "styleAttributes": {},
+      "x": -500,
+      "y": -60,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "3cd3cc3b05341029",
+      "type": "text",
+      "text": "считают противниками",
+      "styleAttributes": {},
+      "x": -500,
+      "y": 20,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {
+      "id": "aa31972e4dc49e6c",
+      "fromNode": "2ac741a2f53dcd61",
+      "fromSide": "right",
+      "toNode": "39934410dd167ee7",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "4a521f3a55b8e693",
+      "styleAttributes": {
+        "pathfindingMethod": null,
+        "path": null
+      },
+      "fromNode": "2ac741a2f53dcd61",
+      "fromSide": "left",
+      "toNode": "1cd9cc6a5ca4a8fd",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "39617279aff27f50",
+      "fromNode": "2e08256e0da70cd0",
+      "fromSide": "bottom",
+      "toNode": "81e5e0565bcdd4eb",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "cb2308654d2b1c92",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "2e08256e0da70cd0",
+      "fromSide": "left",
+      "toNode": "2ac741a2f53dcd61",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "2544a0f8cb534baa",
+      "fromNode": "39934410dd167ee7",
+      "fromSide": "left",
+      "toNode": "2ac741a2f53dcd61",
+      "toSide": "right",
+      "color": "4"
+    },
+    {
+      "id": "43436e89d02905db",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "39934410dd167ee7",
+      "fromSide": "bottom",
+      "toNode": "81e5e0565bcdd4eb",
+      "toSide": "right",
+      "color": "1"
+    },
+    {
+      "id": "d5ba0e1f886ccd98",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "81e5e0565bcdd4eb",
+      "fromSide": "right",
+      "toNode": "39934410dd167ee7",
+      "toSide": "bottom",
+      "color": "1"
+    },
+    {
+      "id": "b51fb47715697f86",
+      "styleAttributes": {},
+      "fromNode": "1cd9cc6a5ca4a8fd",
+      "fromSide": "bottom",
+      "toNode": "2e08256e0da70cd0",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "e6c594ba8bbf0ced",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "1cd9cc6a5ca4a8fd",
+      "fromSide": "right",
+      "toNode": "39934410dd167ee7",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "3429b935d9244179",
+      "styleAttributes": {},
+      "fromNode": "81e5e0565bcdd4eb",
+      "fromSide": "top",
+      "toNode": "2e08256e0da70cd0",
+      "toSide": "bottom",
+      "color": "4"
+    }
+  ],
+  "metadata": {}
 }
