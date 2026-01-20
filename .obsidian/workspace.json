@@ -6,165 +6,29 @@
       {
         "id": "c0be6dd4e3d1e243",
         "type": "tabs",
-        "dimension": 85.0889192886457,
         "children": [
-          {
-            "id": "8e06b8adc8e7789b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Сюжет/Без названия.canvas",
-                "viewState": {
-                  "x": 323.54030896234076,
-                  "y": -552.393000964961,
-                  "zoom": -0.3333333333333333
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
-            }
-          },
-          {
-            "id": "4767b77f6e61dc0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сюжет/Часть 1/Акт 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Акт 1"
-            }
-          },
-          {
-            "id": "5ec6df4f16ffc783",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сюжет/Общая конва сюжета.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Общая конва сюжета"
-            }
-          },
-          {
-            "id": "34179975ce5b4424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Зоны/Золотая зона/Дома/Таблица отношений.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Таблица отношений"
-            }
-          },
           {
             "id": "ed302f1887d1e4f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Зоны/Золотая зона/Облачная гавань.md",
+                "file": "Зоны/Медная зона/Описание медной зоны.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Облачная гавань"
-            }
-          },
-          {
-            "id": "5934cb5187900a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          }
-        ]
-      },
-      {
-        "id": "af11359362901a8c",
-        "type": "tabs",
-        "dimension": 14.91108071135431,
-        "children": [
-          {
-            "id": "a44f9bcdb4811737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "гпт/Черновик_мастер_Дома.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Черновик_мастер_Дома"
-            }
-          },
-          {
-            "id": "5c60fb145275840e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "гпт/черновик_гпт_дома.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "черновик_гпт_дома"
-            }
-          },
-          {
-            "id": "07a4ee23af8180bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "гпт/Черновик_гпт_наказания.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Черновик_гпт_наказания"
-            }
-          },
-          {
-            "id": "ae376f8437f8158d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "гпт/Черновик_мастер_наказания.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Черновик_мастер_наказания"
+              "title": "Описание медной зоны"
             }
           }
         ]
@@ -186,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -223,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 327.5
   },
   "right": {
     "id": "7456278f71c30043",
@@ -285,10 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сюжет/Без названия.canvas"
+                "file": "Зоны/Медная зона/Описание медной зоны.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Описание медной зоны"
             }
           },
           {
@@ -307,8 +175,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
             }
           },
           {
@@ -317,12 +185,32 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
             }
           },
           {
             "id": "9d740711bd037db3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "d06051b07b1c66b3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "c524c0b4f2a4d3ce",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -332,7 +220,7 @@
             }
           },
           {
-            "id": "d06051b07b1c66b3",
+            "id": "6710576a3c5ec99a",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -346,10 +234,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -360,36 +249,38 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "8e06b8adc8e7789b",
+  "active": "ed302f1887d1e4f7",
   "lastOpenFiles": [
-    "Сюжет/Общая конва сюжета.md",
-    "Сюжет/Без названия.canvas",
-    "Общая суть.md",
-    "Сюжет/Часть 1/Акт 1.md",
-    "Зоны/Золотая зона/Облачная гавань.md",
-    "Зоны/Золотая зона/Дома/Таблица отношений.md",
+    "Зоны/Медная зона/Описание медной зоны.md",
     "Зоны/Золотая зона/Дома/Дом Алдара/Описание дома Алдара.md",
-    "TODO.md",
-    "Зоны/Платиновая зона.md",
-    "Зоны/Золотая зона/Без названия.canvas",
-    "Зоны/Золотая зона/Дома/Дом Ларен/Традиции дома Ларен.md",
-    "Сюжет/Часть 1",
-    "Зоны/Золотая зона/Дома/Дом Тарий/Традиции дома Тарий.md",
-    "Зоны/Золотая зона/Дома/Дом Ларен/Описание дома Ларен.md",
-    "гпт/Черновик_мастер_Дома.md",
-    "Зоны/Золотая зона/Дома/Дом Тарий/Описание дома Тарий.md",
-    "гпт/черновик_гпт_дома.md",
-    "Зоны/Золотая зона/Дома/Дом Тарий/Каменное созидание ГПТ.md",
-    "Без названия.md",
-    "Добро пожаловать.md",
-    "Зоны/Золотая зона/Дома.md",
-    "Зоны/Золотая зона/Дома/Дом Алдара/Традиции дома Алдара.md",
     "гпт/ЧЕРНОВИК_ГПТ.md",
     "гпт/Черновик_гпт_наказания.md",
     "гпт/Черновик_мастер_наказания.md",
-    "гпт/ЧЕРНОВИК_МАСТЕР.md",
-    "Зоны/Золотая зона.md",
+    "гпт/Черновик_мастер_Дома.md",
+    "гпт/черновик_гпт_дома.md",
+    "Зоны/Золотая зона/Дома/Дом Вельвар/Традиции дома Вельвар.md",
+    "Зоны/Медная зона/Локации/Тюрьма Черного Камня.md",
     "Зоны/Золотая зона/Описание золотой зоны.md",
+    "Зоны/Золотая зона/Дома/Дом Тарий/Наказания дома Тарий.md",
+    "Зоны/Золотая зона/Дома/Дом Тарий/Традиции дома Тарий.md",
+    "Зоны/Золотая зона/Дома/Дом Тарий/Схема отношений Тарий.canvas",
+    "Зоны/Золотая зона/Дома/Дом Тарий/Описание дома Тарий.md",
+    "Сюжет/Часть 1/Акт 1.md",
+    "Общая суть.md",
+    "Сириус.md",
+    "Зоны/Золотая зона/Дома/Дом Вельвар/Описание дома Вельвар.md",
+    "Зоны/Золотая зона/Дома/Дом Эйлен/Традиции дома Эйлен.md",
+    "Зоны/Золотая зона/Дома/Дом Эйлен/Наказания дома Эйлен.md",
+    "Зоны/Золотая зона/Дома/Дом Ларен/Наказания дома.md",
+    "Зоны/Золотая зона/Дома/Дом Вельвар/Наказания дома Вельвар.md",
+    "Зоны/Золотая зона/Дома/Дом Алдара/Наказания дома Алдара.md",
+    "Зоны/Золотая зона/Дома/Дом Ларен/Описание дома Ларен.md",
+    "Зоны/Золотая зона/Дома/Дом Ларен/Традиции дома Ларен.md",
+    "Зоны/Золотая зона/Дома/Дом Алдара/Традиции дома Алдара.md",
+    "TODO.md",
+    "Сюжет/Без названия.canvas",
+    "Зоны/Золотая зона/Без названия.canvas",
+    "Сюжет/Часть 1",
     "Дома.pdf",
     "Зоны/Медная зона/Локации",
     "Зоны/Золотая зона/Локации",
@@ -397,7 +288,6 @@
     "Зоны/Медная зона",
     "Зоны/Золотая зона/Дома/Дом Эйлен/Схема отношений Эйлен.canvas",
     "Зоны/Золотая зона/Дома/Дом Ларен/Схема отношений Ларен.canvas",
-    "Зоны/Золотая зона/Дома/Дом Тарий/Схема отношений Тарий.canvas",
     "Зоны/Золотая зона/Дома/Все связи домов.canvas",
     "Зоны/Золотая зона/Дома/Дом Вельвар/Схема отношений Вельвар.canvas",
     "Зоны/Золотая зона/Дома/Дом Алдара/Схема отношений Алдара.canvas",
