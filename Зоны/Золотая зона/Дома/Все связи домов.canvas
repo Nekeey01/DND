@@ -3,6 +3,7 @@
     {
       "id": "a69a1e8aa885b45d",
       "type": "group",
+      "styleAttributes": {},
       "x": -1020,
       "y": 380,
       "width": 680,
@@ -12,6 +13,7 @@
     {
       "id": "1b93786a02f67cd5",
       "type": "group",
+      "styleAttributes": {},
       "x": -240,
       "y": 380,
       "width": 680,
@@ -21,6 +23,7 @@
     {
       "id": "b4b425816e5800f2",
       "type": "group",
+      "styleAttributes": {},
       "x": -1020,
       "y": -660,
       "width": 680,
@@ -30,11 +33,45 @@
     {
       "id": "c85214c84487e152",
       "type": "group",
-      "x": -200,
+      "styleAttributes": {},
+      "x": -240,
       "y": -660,
       "width": 680,
       "height": 360,
       "label": "Вельвар"
+    },
+    {
+      "id": "4112a3f7b10e2f72",
+      "type": "group",
+      "x": -640,
+      "y": -120,
+      "width": 680,
+      "height": 360,
+      "label": "Эйлен"
+    },
+    {
+      "id": "afaa69f8fafc9f66",
+      "type": "text",
+      "text": "Дом Эйлен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -760,
+      "y": -640,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "7b60475ef3489f8f",
+      "type": "text",
+      "text": "Дом Эйлен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -760,
+      "y": 400,
+      "width": 160,
+      "height": 60
     },
     {
       "id": "23a39465046f2198",
@@ -85,74 +122,50 @@
       "height": 60
     },
     {
-      "id": "afaa69f8fafc9f66",
-      "type": "text",
-      "text": "Дом Эйлен",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -760,
-      "y": -640,
-      "width": 160,
-      "height": 60
-    },
-    {
-      "id": "9657fee1ece3e967",
-      "type": "text",
-      "text": "Дом Ларен",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -180,
-      "y": -510,
-      "width": 160,
-      "height": 60
-    },
-    {
-      "id": "af5218d344a58ab7",
-      "type": "text",
-      "text": "Дом Эйлен",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 60,
-      "y": -640,
-      "width": 160,
-      "height": 60
-    },
-    {
-      "id": "4e027d0eb7b3fb99",
+      "id": "f1cfb0e00f54b410",
       "type": "text",
       "text": "Дом Вельвар",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 60,
-      "y": -510,
+      "x": -1000,
+      "y": 530,
       "width": 160,
       "height": 60
     },
     {
-      "id": "5eba6fc099f7ee4f",
+      "id": "c68bd316a03c0237",
+      "type": "text",
+      "text": "Дом Ларен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -760,
+      "y": 530,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "41eee2e48e95c5cf",
       "type": "text",
       "text": "Дом Тарий",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 60,
-      "y": -380,
+      "x": -760,
+      "y": 660,
       "width": 160,
       "height": 60
     },
     {
-      "id": "8cdd367df7807a91",
+      "id": "8661e848b82ff6d0",
       "type": "text",
       "text": "Дом Алдара",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 300,
-      "y": -510,
+      "x": -520,
+      "y": 530,
       "width": 160,
       "height": 60
     },
@@ -217,62 +230,14 @@
       "height": 60
     },
     {
-      "id": "f1cfb0e00f54b410",
+      "id": "9b0304d2cb6f78bd",
       "type": "text",
       "text": "Дом Вельвар",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -1000,
-      "y": 530,
-      "width": 160,
-      "height": 60
-    },
-    {
-      "id": "7b60475ef3489f8f",
-      "type": "text",
-      "text": "Дом Эйлен",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -760,
-      "y": 400,
-      "width": 160,
-      "height": 60
-    },
-    {
-      "id": "c68bd316a03c0237",
-      "type": "text",
-      "text": "Дом Ларен",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -760,
-      "y": 530,
-      "width": 160,
-      "height": 60
-    },
-    {
-      "id": "41eee2e48e95c5cf",
-      "type": "text",
-      "text": "Дом Тарий",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -760,
-      "y": 660,
-      "width": 160,
-      "height": 60
-    },
-    {
-      "id": "8661e848b82ff6d0",
-      "type": "text",
-      "text": "Дом Алдара",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -520,
-      "y": 530,
+      "x": -720,
+      "y": -1090,
       "width": 160,
       "height": 60
     },
@@ -283,32 +248,8 @@
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -340,
-      "y": 10,
-      "width": 160,
-      "height": 60
-    },
-    {
-      "id": "553f1c7521775a68",
-      "type": "text",
-      "text": "Дом Эйлен",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -340,
-      "y": -220,
-      "width": 160,
-      "height": 60
-    },
-    {
-      "id": "9b0304d2cb6f78bd",
-      "type": "text",
-      "text": "Дом Вельвар",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -680,
-      "y": 10,
+      "x": -380,
+      "y": -1090,
       "width": 160,
       "height": 60
     },
@@ -319,8 +260,8 @@
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -20,
-      "y": 10,
+      "x": -60,
+      "y": -1090,
       "width": 160,
       "height": 60
     },
@@ -331,8 +272,140 @@
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -340,
-      "y": 240,
+      "x": -380,
+      "y": -860,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "553f1c7521775a68",
+      "type": "text",
+      "text": "Дом Эйлен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -380,
+      "y": -1320,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "d72f8dfb4294e168",
+      "type": "text",
+      "text": "Дом Вельвар",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -620,
+      "y": 20,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "dfdf2969c1b848c2",
+      "type": "text",
+      "text": "Дом Ларен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -380,
+      "y": -110,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "c40a5a4eec31015f",
+      "type": "text",
+      "text": "Дом Эйлен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -380,
+      "y": 20,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "83e434fd90635ed6",
+      "type": "text",
+      "text": "Дом Тарий",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -380,
+      "y": 150,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "3c98455fa0341abe",
+      "type": "text",
+      "text": "Дом Алдара",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -140,
+      "y": 20,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "9657fee1ece3e967",
+      "type": "text",
+      "text": "Дом Ларен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -220,
+      "y": -510,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "af5218d344a58ab7",
+      "type": "text",
+      "text": "Дом Эйлен",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 20,
+      "y": -640,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "4e027d0eb7b3fb99",
+      "type": "text",
+      "text": "Дом Вельвар",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 20,
+      "y": -510,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "5eba6fc099f7ee4f",
+      "type": "text",
+      "text": "Дом Тарий",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 20,
+      "y": -380,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "8cdd367df7807a91",
+      "type": "text",
+      "text": "Дом Алдара",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 260,
+      "y": -510,
       "width": 160,
       "height": 60
     }
@@ -574,6 +647,42 @@
       "toNode": "6eb9d8f27221e793",
       "toSide": "bottom",
       "color": "4"
+    },
+    {
+      "id": "29660a8f8389b7a2",
+      "styleAttributes": {},
+      "fromNode": "c40a5a4eec31015f",
+      "fromSide": "right",
+      "toNode": "3c98455fa0341abe",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "5f335e1fada7eeb9",
+      "styleAttributes": {},
+      "fromNode": "c40a5a4eec31015f",
+      "fromSide": "bottom",
+      "toNode": "83e434fd90635ed6",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "5efb332c2734adc6",
+      "styleAttributes": {},
+      "fromNode": "c40a5a4eec31015f",
+      "fromSide": "top",
+      "toNode": "dfdf2969c1b848c2",
+      "toSide": "bottom",
+      "color": "4"
+    },
+    {
+      "id": "464b514ee622ad4b",
+      "styleAttributes": {},
+      "fromNode": "c40a5a4eec31015f",
+      "fromSide": "left",
+      "toNode": "d72f8dfb4294e168",
+      "toSide": "right",
+      "color": "3"
     }
   ],
   "metadata": {}
