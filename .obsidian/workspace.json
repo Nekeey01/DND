@@ -6,7 +6,7 @@
       {
         "id": "c0be6dd4e3d1e243",
         "type": "tabs",
-        "dimension": 50.77565632458234,
+        "dimension": 42.41573033707865,
         "children": [
           {
             "id": "f95f5b562cb8a8ec",
@@ -33,12 +33,12 @@
             }
           },
           {
-            "id": "8a56921696614b5e",
+            "id": "8ddb70214c540c48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Общая суть.md",
+                "file": "Зоны/Медная зона/Банды/Младшие банды/Альтушки.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,16 +53,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Общая суть"
+              "title": "Альтушки"
             }
           },
           {
-            "id": "47a503eaa5b9af53",
+            "id": "70f5eef31a7947a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Зоны/Медная зона/Описание медной зоны.md",
+                "file": "Зоны/Медная зона/Банды/Общее описание.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,139 +77,91 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Описание медной зоны"
-            }
-          },
-          {
-            "id": "2ac376d035bedd7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Зоны/Медная зона/Локации/Плавильные цеха/Описание плавильных цехов.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Описание плавильных цехов"
-            }
-          },
-          {
-            "id": "84b04f9aba2f871f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Зоны/Медная зона/Локации/Плавильные цеха/Персонажи/Младшая мастер смены Кира Тонкая Жила.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Младшая мастер смены Кира Тонкая Жила"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "faff699e8a9ba0e4",
-        "type": "tabs",
-        "dimension": 49.22434367541766,
-        "children": [
-          {
-            "id": "5cfa064e86d1d918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "гпт/ЧЕРНОВИК_МАСТЕР 4o.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ЧЕРНОВИК_МАСТЕР 4o"
-            }
-          },
-          {
-            "id": "59b1aa0b35f2a1b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "гпт/ЧЕРНОВИК_МАСТЕР 5.2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ЧЕРНОВИК_МАСТЕР 5.2"
-            }
-          },
-          {
-            "id": "5e7a70901d250b9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "гпт/ЧЕРНОВИК_ГПТ.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ЧЕРНОВИК_ГПТ"
+              "title": "Общее описание"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "df18762e93e5e952",
+        "type": "tabs",
+        "dimension": 57.58426966292135,
+        "children": [
+          {
+            "id": "8f02c983c056071a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Зоны/Медная зона/Банды/Триада/Шрамированые/Персонажи/Адам-Даан Янг “Двуликий”.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Адам-Даан Янг “Двуликий”"
+            }
+          },
+          {
+            "id": "45880a97b65bf68e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Зоны/Медная зона/Банды/Триада/Шрамированые/Шрамированые.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Шрамированые"
+            }
+          },
+          {
+            "id": "bd336ba9980453b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Зоны/Медная зона/Банды/Триада/Шрамированые/Жидкий метал.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Жидкий метал"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,7 +184,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -259,14 +211,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 260.5
   },
   "right": {
     "id": "7456278f71c30043",
@@ -328,13 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "гпт/ЧЕРНОВИК_ГПТ.md",
+                "file": "Зоны/Медная зона/Банды/Общее описание.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ЧЕРНОВИК_ГПТ"
+              "title": "Outline of Общее описание"
             }
           },
           {
@@ -353,8 +305,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
             }
           },
           {
@@ -363,8 +315,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
             }
           },
           {
@@ -373,8 +325,28 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "eaece4b2cc97ede6",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "4371303aae60d40c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
         ],
@@ -382,76 +354,77 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 289.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Создать новую базу": false,
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "juggl:Juggl global graph": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e7a70901d250b9d",
+  "active": "70f5eef31a7947a7",
   "lastOpenFiles": [
-    "Зоны/Медная зона/Локации/Плавильные цеха/Описание плавильных цехов.md",
-    "гпт/ЧЕРНОВИК_ГПТ.md",
-    "гпт/ЧЕРНОВИК_МАСТЕР 5.2.md",
-    "гпт/ЧЕРНОВИК_МАСТЕР 4o.md",
+    "Зоны/Медная зона/Банды/Триада/Шрамированые/Шрамированые.md",
+    "Зоны/Медная зона/Банды/Триада/Шрамированые/Персонажи/Арден Крейг.md",
+    "Зоны/Медная зона/Банды/Триада/Шрамированые/Жидкий метал.md",
+    "Зоны/Медная зона/Банды/Младшие банды/Даль и Дальмар.md",
+    "Зоны/Медная зона/Банды/Общее описание.md",
+    "Зоны/Медная зона/Банды/Триада/Шрамированые/Персонажи/Адам-Даан Янг “Двуликий”.md",
+    "Зоны/Медная зона/Банды/Младшие банды/Ночные фурии.md",
+    "Общее описание.md",
+    "Зоны/Медная зона/Банды/Младшие банды/Мясные.md",
+    "Зоны/Медная зона/Банды/Триада/Железные Псы/Железные Псы.md",
+    "Зоны/Медная зона/Банды/Триада/Шрамированые/Веретено.md",
+    "Зоны/Медная зона/Локации/Больница Медный Лист/Описание больницы Медный Лист.md",
+    "Зоны/Медная зона/Банды/Триада/Шрамированые/Персонажи",
+    "Зоны/Медная зона/Банды/Триада/Игровые события.md",
+    "Зоны/Медная зона/Локации/Больница Трех Кругов/Untitled.md",
+    "Зоны/Медная зона/Банды/Триада/Шрамированые/Модификации.md",
+    "Зоны/Медная зона/Локации/Подмедье/Описание Подмедье.md",
+    "Зоны/Медная зона/Локации/Подмедье",
+    "Зоны/Медная зона/Описание медной зоны.md",
+    "Зоны/Медная зона/Локации/Промышленный комплекс “Пилигрим”/Описание промышленного комплекс “Пилигрим”.md",
+    "Зоны/Медная зона/Локации/Тюрьма Черного Камня.md",
+    "Зоны/Медная зона/Локации/Промышленный комплекс “Пилигрим”",
+    "Сириус.md",
+    "Зоны/Медная зона/Локации/Больница Медный Лист",
     "Зоны/Медная зона/Локации/Плавильные цеха/Персонажи/Надзорник магической стабилизации Хесс Вар.md",
     "Зоны/Медная зона/Локации/Плавильные цеха/Персонажи/Младшая мастер смены Кира Тонкая Жила.md",
     "Зоны/Медная зона/Локации/Плавильные цеха/Персонажи/Мастер Трудгар Серый Жар.md",
-    "Зоны/Медная зона/Локации/Центральная производственная площадь/Описание Центральной производственной площади.md",
     "Зоны/Медная зона/Локации/Плавильные цеха/Персонажи",
-    "Зоны/Медная зона/Описание медной зоны.md",
-    "Зоны/Медная зона/Банды/Триада/Шрамированые/Шрамированые.md",
-    "Зоны/Медная зона/Банды/Триада/Шрамированые/Модификации.md",
-    "Зоны/Медная зона/Банды/Триада/Шрамированые/Жидкий метал.md",
-    "Зоны/Медная зона/Банды/Триада/Шрамированые/Веретено.md",
-    "Зоны/Медная зона/Банды/Триада/Железные Псы/Железные Псы.md",
     "Зоны/Медная зона/Банды/Триада/Бюро/Бюро.md",
-    "Зоны/Медная зона/Банды/Триада/Шрамированые",
-    "Зоны/Медная зона/Банды/Триада/Железные Псы",
-    "Зоны/Медная зона/Банды/Триада/Бюро",
-    "Зоны/Медная зона/Банды/Триада",
-    "Зоны/Медная зона/Банды/Общее описание.md",
-    "Зоны/Медная зона/Банды/Младшие банды/Мясные.md",
-    "Зоны/Медная зона/Банды/Младшие банды/Даль и Дальмар.md",
-    "Зоны/Медная зона/Банды/Младшие банды",
-    "Зоны/Медная зона/Банды/Жаргонный словарик.md",
-    "Зоны/Золотая зона/Дома/Дом Эйлен/Описание дома Эйлен.md",
-    "гпт/Черновик_мастер_иерархия.md",
-    "Зоны/Медная зона/Локации/Плавильные цеха",
-    "DND-master.zip.tmp",
+    "[[Зоны/Медная.md",
+    "[[Зоны",
+    "[Веретено].md",
     "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/“Водовоз” Селла.png",
     "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/Смотритель Поста Инструментов Рувад Рунный Локоть.png",
-    "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/Малка Ретц.png",
-    "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/Мастер смены Лоррен Кривой Шов.png",
     "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/Площадь сверху.png",
-    "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/ChatGPT Image 28 янв. 2026 г., 15_42_07.png",
-    "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/ChatGPT Image 28 янв. 2026 г., 15_40_37.png",
-    "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/ChatGPT Image 28 янв. 2026 г., 15_38_38.png",
-    "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/ChatGPT Image 28 янв. 2026 г., 15_37_01.png",
-    "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/ChatGPT Image 28 янв. 2026 г., 15_34_12.png",
+    "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/Мастер смены Лоррен Кривой Шов.png",
+    "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/Малка Ретц.png",
     "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения",
-    "Зоны/Медная зона/Локации/Центральная производственная площадь/Новая папка",
-    "Зоны/Золотая зона/Дома/Дом Алдара/Наказания дома Алдара.md",
-    "Зоны/Золотая зона/Локации/Облачная гавань.md",
-    "Зоны/Центр.md",
-    "Зоны/Центр/Здание Правления.md",
-    "Зоны/Центр/Главная площадь.md",
+    "Зоны/Медная зона/Локации/Центральная производственная площадь",
+    "Зоны/Медная зона/Локации/Плавильные цеха",
+    "Банды/Триада/Шрамированые",
+    "Зоны/Золотая зона/Дома/Все связи домов.canvas",
+    "Зоны/Медная зона/Локации/Площадь сломанных/Изображения/Площадь после наказания сверху.png",
+    "Зоны/Медная зона/Локации/Площадь сломанных/Изображения/Пустая площадь сверху.png",
+    "Зоны/Медная зона/Локации/Площадь сломанных/Изображения/Площадь перед наказанием.png",
+    "Зоны/Медная зона/Локации/Площадь сломанных/Изображения/Площадь POV.png",
+    "Сюжет/Без названия.canvas",
     "Зоны/Золотая зона/Дома/Дом Эйлен/Схема отношений Эйлен.canvas",
     "Зоны/Золотая зона/Дома/Дом Алдара/Схема отношений Алдара.canvas",
     "Зоны/Золотая зона/Без названия.canvas",
     "Зоны/Золотая зона/Дома/Дом Тарий/Схема отношений Тарий.canvas",
-    "Зоны/Золотая зона/Дома/Все связи домов.canvas",
-    "Сюжет/Без названия.canvas",
+    "Зоны/Медная зона/Изображения/ChatGPT Image 21 янв. 2026 г., 05_33_18.png",
     "Зоны/Медная зона/Без названия.canvas",
     "Зоны/Золотая зона/Дома/Дом Ларен/Схема отношений Ларен.canvas",
     "Зоны/Золотая зона/Дома/Дом Вельвар/Схема отношений Вельвар.canvas",
