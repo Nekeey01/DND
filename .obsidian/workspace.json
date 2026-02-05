@@ -14,6 +14,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Зоны/Медная зона/Локации/Мастерской квартал/Описание мастерского квартала.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Описание мастерского квартала"
+            }
+          },
+          {
+            "id": "4455d896a1d22019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Зоны/Медная зона/Описание медной зоны.md",
                 "mode": "source",
                 "source": false,
@@ -31,81 +55,9 @@
               "icon": "lucide-file",
               "title": "Описание медной зоны"
             }
-          },
-          {
-            "id": "8a56921696614b5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Общая суть.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Общая суть"
-            }
-          },
-          {
-            "id": "2ac376d035bedd7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Зоны/Медная зона/Локации/Плавильные цеха/Описание плавильных цехов.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Описание плавильных цехов"
-            }
-          },
-          {
-            "id": "92e8fafd67b25c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Зоны/Медная зона/Локации/Таверна Медный молот/Описание Таверны медный молот.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Описание Таверны медный молот"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "faff699e8a9ba0e4",
@@ -185,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Зоны/Медная зона/Локации/Таверна Медный молот/Описание Таверны медный молот.md",
+                "file": "гпт/ЧЕРНОВИК_МАСТЕР 5.2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Описание Таверны медный молот"
+              "title": "Структура ЧЕРНОВИК_МАСТЕР 5.2"
             }
           },
           {
@@ -374,17 +326,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92e8fafd67b25c96",
+  "active": "59b1aa0b35f2a1b0",
   "lastOpenFiles": [
+    "гпт/ЧЕРНОВИК_ГПТ.md",
+    "гпт/ЧЕРНОВИК_МАСТЕР 4o.md",
+    "гпт/ЧЕРНОВИК_МАСТЕР 5.2.md",
+    "Зоны/Медная зона/Описание медной зоны.md",
+    "Зоны/Медная зона/Локации/Мастерской квартал/Описание мастерского квартала.md",
+    "Зоны/Медная зона/Локации/Мастерской квартал",
+    "Зоны/Медная зона/Локации/Без названия.md",
+    "Зоны/Медная зона/Локации/Таверна Медный молот/Описание Таверны медный молот.md",
     "Зоны/Медная зона/Локации/Плавильные цеха/Описание плавильных цехов.md",
     "Зоны/Медная зона/Локации/Плавильные цеха/Персонажи/Младшая мастер смены Кира Тонкая Жила.md",
-    "Зоны/Медная зона/Локации/Таверна Медный молот/Описание Таверны медный молот.md",
-    "гпт/ЧЕРНОВИК_ГПТ.md",
-    "гпт/ЧЕРНОВИК_МАСТЕР 5.2.md",
-    "гпт/ЧЕРНОВИК_МАСТЕР 4o.md",
     "Зоны/Золотая зона/Описание золотой зоны.md",
     "Зоны/Золотая зона.md",
-    "Зоны/Медная зона/Описание медной зоны.md",
     "Текстовый документ.txt",
     "Описание.md",
     "Зоны/Медная зона/Локации/Таверна Медный молот/Без названия.md",
@@ -407,11 +362,8 @@
     "Зоны/Медная зона/Банды/Триада",
     "Зоны/Медная зона/Банды/Общее описание.md",
     "Зоны/Медная зона/Банды/Младшие банды/Мясные.md",
-    "Зоны/Медная зона/Банды/Младшие банды/Даль и Дальмар.md",
     "Зоны/Медная зона/Банды/Младшие банды",
-    "Зоны/Медная зона/Банды/Жаргонный словарик.md",
     "Зоны/Медная зона/Локации/Плавильные цеха",
-    "DND-master.zip.tmp",
     "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/“Водовоз” Селла.png",
     "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/Смотритель Поста Инструментов Рувад Рунный Локоть.png",
     "Зоны/Медная зона/Локации/Центральная производственная площадь/Изображения/Малка Ретц.png",
