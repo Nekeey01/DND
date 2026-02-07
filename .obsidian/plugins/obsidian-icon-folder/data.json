@@ -5,7 +5,11 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiPlay",
+      "LiUser",
+      "LiInfo"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -25,6 +29,13 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
-    "debugMode": false
-  }
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Зоны/Медная зона/Банды/Триада/Шрамированые/Шрамированые.md": "LiInfo",
+  "Зоны/Медная зона/Банды/Триада/Железные Псы/Железные Псы.md": "LiInfo",
+  "Зоны/Медная зона/Банды/Триада/Бюро/Бюро.md": "LiInfo",
+  "Зоны/Медная зона/Банды/Общее описание.md": "LiInfo",
+  "Зоны/Медная зона/Банды/Младшие банды/Даль и Дальмар.md": "LiInfo",
+  "Зоны/Медная зона/Банды/Младшие банды/Мясные.md": "LiInfo"
 }
