@@ -113,36 +113,12 @@
             }
           },
           {
-            "id": "45880a97b65bf68e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Зоны/Медная зона/Банды/Триада/Шрамированые/Шрамированые.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Шрамированые"
-            }
-          },
-          {
             "id": "bd336ba9980453b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Зоны/Медная зона/Банды/Триада/Шрамированые/Жидкий метал.md",
+                "file": "Зоны/Медная зона/Локации/Площадь сломанных/Описание площади сломанных.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -157,7 +133,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Жидкий метал"
+              "title": "Описание площади сломанных"
             }
           }
         ],
@@ -218,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 325.5
   },
   "right": {
     "id": "7456278f71c30043",
@@ -280,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Зоны/Медная зона/Банды/Общее описание.md",
+                "file": "Зоны/Медная зона/Банды/Триада/Шрамированые/Шрамированые.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Общее описание"
+              "title": "Outline of Шрамированые"
             }
           },
           {
@@ -354,8 +330,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -371,13 +346,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70f5eef31a7947a7",
+  "active": "bd336ba9980453b8",
   "lastOpenFiles": [
-    "Зоны/Медная зона/Банды/Триада/Шрамированые/Шрамированые.md",
-    "Зоны/Медная зона/Банды/Триада/Шрамированые/Персонажи/Арден Крейг.md",
     "Зоны/Медная зона/Банды/Триада/Шрамированые/Жидкий метал.md",
-    "Зоны/Медная зона/Банды/Младшие банды/Даль и Дальмар.md",
+    "Зоны/Медная зона/Банды/Триада/Шрамированые/Шрамированые.md",
     "Зоны/Медная зона/Банды/Общее описание.md",
+    "Зоны/Медная зона/Банды/Триада/Шрамированые/Персонажи/Арден Крейг.md",
+    "Зоны/Медная зона/Банды/Младшие банды/Даль и Дальмар.md",
     "Зоны/Медная зона/Банды/Триада/Шрамированые/Персонажи/Адам-Даан Янг “Двуликий”.md",
     "Зоны/Медная зона/Банды/Младшие банды/Ночные фурии.md",
     "Общее описание.md",
